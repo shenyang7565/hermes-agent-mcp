@@ -1,0 +1,6 @@
+# Credentials - DO NOT commit
+.env
+*.key
+*.pem
+*.crt
+config.yaml
